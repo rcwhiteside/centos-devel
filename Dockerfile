@@ -7,5 +7,7 @@ RUN yum install -y \
 	ncurses-static \
 	gcc \
 	glibc-devel \
-	make
+	make \
+	rpm-build \
+	rpmdevtools
 
